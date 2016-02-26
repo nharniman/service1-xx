@@ -1,8 +1,10 @@
 package net.harniman.service1;
 
-import io.dropwizard.Configuration;
-import com.fasterxml.jackson.annotation.JsonProperty;
 import org.hibernate.validator.constraints.NotEmpty;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+import io.dropwizard.Configuration;
 
 public class Service1Configuration extends Configuration {
 

@@ -21,7 +21,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>1.2.1</version>
         <configuration>
-          <mainClass>net.harniman.helloworld.HelloWorldApplication</mainClass>
+          <mainClass>net.harniman.service1.Service1Application</mainClass>
           <arguments>
             <argument>server</argument>
             <argument>configuration.yml</argument>
